@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center"> GUSTAVO.EXE </h1>
 
-<!--
-**Gustavo-Rodrigues1109/Gustavo-Rodrigues1109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=24&center=true&vCenter=true&width=600&lines=Inicializando+sistema...;Carregando+Java...;Acesso+concedido.;Bem-vindo+ao+meu+GitHub" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🖥️ SYSTEM.LOG
+
+```bash
+> user: Gustavo Rodrigues
+> role: Dev em evolução
+> focus: Java
+> status: Aprendendo, evoluindo e criando
+```
+<p align="center"> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Rodrigues1109&show_icons=true&theme=chartreuse-dark&hide_border=true"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Rodrigues1109&layout=compact&theme=chartreuse-dark&hide_border=true"/> </p>
+
+<p align="center"> <img src="https://streak-stats.demolab.com?user=Gustavo-Rodrigues1109&theme=chartreuse-dark&hide_border=true"/> </p>
+
+```bash
+JAVA        ██████████░░░░░░░░ 50%
+ALGORITMOS  █████████████░░░░ 70%
+GITHUB      ████████░░░░░░░░░ 40%
+```
