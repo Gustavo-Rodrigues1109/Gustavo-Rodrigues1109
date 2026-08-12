@@ -15,8 +15,6 @@
 > status: Aprendendo, evoluindo e criando
 ```
 
-<p align="center"> <img src="https://streak-stats.demolab.com?user=GusoRo&theme=chartreuse-dark&hide_border=true"/> </p>
-
 
 
 ```bash
