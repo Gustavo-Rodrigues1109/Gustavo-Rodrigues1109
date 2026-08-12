@@ -10,8 +10,8 @@
 
 ```bash
 > user: Gustavo Rodrigues
-> role: Dev em evolução
-> focus: Java
+> role: DevOps em evolução
+> focus: DevOps
 > status: Aprendendo, evoluindo e criando
 ```
 
